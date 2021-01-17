@@ -2,8 +2,8 @@
   to run app you just run ```pod install```
   
   project apply
-  1- swiftlint for linting
-  2- swift format for formating code 
+  - swiftlint for linting
+  - swift format for formating code 
   archticture MVVM with behaviour tests
   
   Frameworks used
