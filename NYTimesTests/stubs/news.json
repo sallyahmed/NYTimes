@@ -1,0 +1,1239 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/1b0c829d-cc1e-589f-b92e-d4cab71bcfb9",
+      "url": "https://www.nytimes.com/2021/01/15/us/politics/mike-lindell-notes-west-wing.html",
+      "id": 100000007554663,
+      "asset_id": 100000007554663,
+      "source": "New York Times",
+      "published_date": "2021-01-15",
+      "updated": "2021-01-16 12:56:35",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Presidential Election of 2020;Rumors and Misinformation;Conspiracy Theories;Right-Wing Extremism and Alt-Right;Lindell, Mike;Trump, Donald J;My Pillow Inc",
+      "column": null,
+      "byline": "By Maggie Haberman",
+      "type": "Article",
+      "title": "Photos of Trump ally who visited the White House capture notes about martial law.",
+      "abstract": "President Trump, isolated and watching the clock count down on his time in the White House, spent some of it on Friday with the C.E.O. of MyPillow, Mike Lindell, who brought some notes with him.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Rumors and Misinformation",
+        "Conspiracy Theories",
+        "Right-Wing Extremism and Alt-Right"
+      ],
+      "org_facet": [
+        "My Pillow Inc"
+      ],
+      "per_facet": [
+        "Lindell, Mike",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mike Lindell, the C.E.O. of MyPillow, leaving the White House on Friday.",
+          "copyright": "Gerald Herbert/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/politics/15transition-briefing-lindell/merlin_182378253_b32db8aa-ac3d-420a-9c05-5674a03547ae-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/politics/15transition-briefing-lindell/merlin_182378253_b32db8aa-ac3d-420a-9c05-5674a03547ae-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/politics/15transition-briefing-lindell/merlin_182378253_b32db8aa-ac3d-420a-9c05-5674a03547ae-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/db975f46-d6f0-5810-af54-e71940e2cc96",
+      "url": "https://www.nytimes.com/2021/01/14/world/europe/tower-of-london-missing-raven-merlina.html",
+      "id": 100000007551027,
+      "asset_id": 100000007551027,
+      "source": "New York Times",
+      "published_date": "2021-01-14",
+      "updated": "2021-01-15 11:17:22",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Birds;Myths and Mythical Creatures;Historic Buildings and Sites;Superstitions;Tower of London (Great Britain);Great Britain;London (England)",
+      "column": null,
+      "byline": "By Alan Cowell",
+      "type": "Article",
+      "title": "A Raven Queen Vanishes, and Britain Checks a Prophecy",
+      "abstract": "One of the resident birds at the Tower of London is feared to have died. Legend says at least six must be kept there, or the nation will fall.",
+      "des_facet": [
+        "Birds",
+        "Myths and Mythical Creatures",
+        "Historic Buildings and Sites",
+        "Superstitions"
+      ],
+      "org_facet": [
+        "Tower of London (Great Britain)"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Great Britain",
+        "London (England)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ravens roaming the grounds at the Tower of London last year.",
+          "copyright": "Tolga Akmen/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/world/14uk-ravens-2-promo/14uk-ravens-2sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/world/14uk-ravens-2-promo/merlin_178732002_bde896d2-ea30-4cbb-866e-814d842638a5-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/world/14uk-ravens-2-promo/merlin_178732002_bde896d2-ea30-4cbb-866e-814d842638a5-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/caa47cef-8f7e-5db5-93cb-47cec8655baf",
+      "url": "https://www.nytimes.com/2021/01/14/opinion/trump-evangelicals.html",
+      "id": 100000007551481,
+      "asset_id": 100000007551481,
+      "source": "New York Times",
+      "published_date": "2021-01-14",
+      "updated": "2021-01-16 11:38:44",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Storming of the US Capitol (Jan, 2021);Evangelical Movement;Christians and Christianity;Rumors and Misinformation;Conspiracy Theories;Threats and Threatening Messages;Whites;Conservatism (US Politics);Religion-State Relations;Presidential Election of 2020;United States Politics and Government;Trump, Donald J",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "Trump Ignites a War Within the Church",
+      "abstract": "After a week of Trumpist mayhem, white evangelicals wrestle with what they’ve become.",
+      "des_facet": [
+        "Storming of the US Capitol (Jan, 2021)",
+        "Evangelical Movement",
+        "Christians and Christianity",
+        "Rumors and Misinformation",
+        "Conspiracy Theories",
+        "Threats and Threatening Messages",
+        "Whites",
+        "Conservatism (US Politics)",
+        "Religion-State Relations",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trump supporters brought a cross to pray outside the U.S. Capitol as Congress met to ratify Joe Biden’s electoral victory last week.",
+          "copyright": "Win Mcnamee/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/opinion/14brooksWeb/14brooksWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/opinion/14brooksWeb/14brooksWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/opinion/14brooksWeb/14brooksWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/44405cf8-45eb-5ed7-9eb6-25c31140a0df",
+      "url": "https://www.nytimes.com/2021/01/14/technology/san-francisco-covid-work-moving.html",
+      "id": 100000007216099,
+      "asset_id": 100000007216099,
+      "source": "New York Times",
+      "published_date": "2021-01-14",
+      "updated": "2021-01-15 21:12:07",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Real Estate and Housing (Residential);Computers and the Internet;Relocation of Business;Quarantine (Life and Culture);Renting and Leasing (Real Estate);Work-Life Balance;Twitter;Facebook Inc;Atlanta (Ga);Austin (Tex);Cabo San Lucas (Mexico);Georgia;San Juan (Puerto Rico);Savannah (Ga)",
+      "column": null,
+      "byline": "By Nellie Bowles",
+      "type": "Article",
+      "title": "They Can’t Leave the Bay Area Fast Enough",
+      "abstract": "As a tech era draws to an end, more workers and companies are packing up. What comes next?",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Computers and the Internet",
+        "Relocation of Business",
+        "Quarantine (Life and Culture)",
+        "Renting and Leasing (Real Estate)",
+        "Work-Life Balance"
+      ],
+      "org_facet": [
+        "Twitter",
+        "Facebook Inc"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Atlanta (Ga)",
+        "Austin (Tex)",
+        "Cabo San Lucas (Mexico)",
+        "Georgia",
+        "San Juan (Puerto Rico)",
+        "Savannah (Ga)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "San Francisco doesn\u0026rsquo;t have the same hold on the tech world now that remote work is here to stay.",
+          "copyright": "Lucas Foglia for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/17/business/00AfterSF-lede/00AfterSF-lede-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/17/business/00AfterSF-lede/00AfterSF-lede-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/17/business/00AfterSF-lede/00AfterSF-lede-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7beb21ab-fe35-5150-9060-7bb1d75b7090",
+      "url": "https://www.nytimes.com/2021/01/15/us/politics/pence-kamala-harris.html",
+      "id": 100000007553753,
+      "asset_id": 100000007553753,
+      "source": "New York Times",
+      "published_date": "2021-01-15",
+      "updated": "2021-01-15 15:46:46",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Jonathan Martin and Maggie Haberman",
+      "type": "Article",
+      "title": "Pence, occupying a leadership void, calls Harris to offer assistance — as Trump plans his Inauguration Day getaway.",
+      "abstract": "",
+      "des_facet": [
+        
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Mike Pence spoke to National Guard troops at the Capitol on Thursday.",
+          "copyright": "Jason Andrew for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/15transition-briefing-harris/15transition-briefing-harris-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/15transition-briefing-harris/15transition-briefing-harris-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/15transition-briefing-harris/15transition-briefing-harris-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d3c70e6a-7828-57a2-bd51-c7ed7556c790",
+      "url": "https://www.nytimes.com/2021/01/15/us/politics/fbi-investigation-capitol-sicknick.html",
+      "id": 100000007553475,
+      "asset_id": 100000007553475,
+      "source": "New York Times",
+      "published_date": "2021-01-15",
+      "updated": "2021-01-15 16:39:06",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Eileen Sullivan and Adam Goldman",
+      "type": "Article",
+      "title": "The F.B.I. questions dozens in the killing of a Capitol Police officer and other assaults by a pro-Trump mob.",
+      "abstract": "The officer was struck with a fire extinguisher as the violence unfolded.",
+      "des_facet": [
+        
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A makeshift memorial for Officer Brian Sicknick, who was killed by the pro-Trump mob that stormed the Capitol.",
+          "copyright": "Anna Moneymaker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/15transition-briefing-investigation/15transition-briefing-investigation-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/15transition-briefing-investigation/15transition-briefing-investigation-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/15transition-briefing-investigation/15transition-briefing-investigation-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6a9d42f7-5ce8-5730-8c37-58c0e91445d8",
+      "url": "https://www.nytimes.com/2021/01/14/business/economy/biden-economy.html",
+      "id": 100000007549603,
+      "asset_id": 100000007549603,
+      "source": "New York Times",
+      "published_date": "2021-01-14",
+      "updated": "2021-01-15 14:42:46",
+      "section": "Business",
+      "subsection": "Economy",
+      "nytdsection": "business",
+      "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Stimulus (Economic);Federal Aid (US);States (US);Federal Budget (US);Coronavirus Aid, Relief, and Economic Security Act (2020);Unemployment Insurance;United States Economy;United States Politics and Government;Biden, Joseph R Jr;Democratic Party",
+      "column": null,
+      "byline": "By Jim Tankersley and Michael Crowley",
+      "type": "Article",
+      "title": "Biden Outlines $1.9 Trillion Spending Package to Combat Virus and Downturn",
+      "abstract": "The president-elect detailed plans for an initial effort to fight the coronavirus and a subsequent one to address economic recovery.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Stimulus (Economic)",
+        "Federal Aid (US)",
+        "States (US)",
+        "Federal Budget (US)",
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+        "Unemployment Insurance",
+        "United States Economy",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President-elect Joseph R. Biden Jr.  on Thursday unveiled a $1.9 trillion spending package aimed at combating the health and economic crises of the coronavirus pandemic.",
+          "copyright": "Amr Alfiky/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/us/14dc-bidenecon/14dc-bidenecon-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/us/14dc-bidenecon/14dc-bidenecon-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/us/14dc-bidenecon/14dc-bidenecon-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2f47c6c9-2dd0-5841-9c26-8be867acf3fe",
+      "url": "https://www.nytimes.com/2021/01/15/us/politics/atlanta-prosecutor-trump-election.html",
+      "id": 100000007554019,
+      "asset_id": 100000007554019,
+      "source": "New York Times",
+      "published_date": "2021-01-15",
+      "updated": "2021-01-16 13:08:14",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "District Attorneys;Ethics and Official Misconduct;Voter Fraud (Election Fraud);Politics and Government;Presidential Election of 2020;United States Politics and Government;Willis, Fani;Trump, Donald J;Fulton County (Ga);Georgia",
+      "column": null,
+      "byline": "By Richard Fausset and Danny Hakim",
+      "type": "Article",
+      "title": "Atlanta Prosecutor Appears to Move Closer to Trump Inquiry",
+      "abstract": "The Fulton County district attorney is weighing an inquiry into possible election interference and is said to be considering hiring an outside counsel.",
+      "des_facet": [
+        "District Attorneys",
+        "Ethics and Official Misconduct",
+        "Voter Fraud (Election Fraud)",
+        "Politics and Government",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Willis, Fani",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Fulton County (Ga)",
+        "Georgia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump made several calls to Georgia officials that raised alarms about election interference.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/politics/15georgia/15georgia-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/politics/15georgia/15georgia-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/politics/15georgia/15georgia-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b11d63b1-8104-5105-8f4d-6ec98ef76dec",
+      "url": "https://www.nytimes.com/2021/01/14/business/economy/biden-stimulus-plan.html",
+      "id": 100000007551875,
+      "asset_id": 100000007551875,
+      "source": "New York Times",
+      "published_date": "2021-01-14",
+      "updated": "2021-01-15 20:46:56",
+      "section": "Business",
+      "subsection": "Economy",
+      "nytdsection": "business",
+      "adx_keywords": "United States Economy;Coronavirus (2019-nCoV);Stimulus (Economic);Coronavirus Reopenings;Wages and Salaries;United States Politics and Government;Minimum Wage;Unemployment;Labor and Jobs;Vaccination and Immunization;Tax Credits, Deductions and Exemptions;Presidential Transition (US);Biden, Joseph R Jr",
+      "column": null,
+      "byline": "By Jeanna Smialek",
+      "type": "Article",
+      "title": "A Look at What’s in Biden’s $1.9 Trillion Stimulus Plan",
+      "abstract": "The president-elect is rolling out a large spending package aimed at helping battle the virus and alleviate the economic toll it has taken.",
+      "des_facet": [
+        "United States Economy",
+        "Coronavirus (2019-nCoV)",
+        "Stimulus (Economic)",
+        "Coronavirus Reopenings",
+        "Wages and Salaries",
+        "United States Politics and Government",
+        "Minimum Wage",
+        "Unemployment",
+        "Labor and Jobs",
+        "Vaccination and Immunization",
+        "Tax Credits, Deductions and Exemptions",
+        "Presidential Transition (US)"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President-elect Joseph R. Biden Jr. planned to lay out plans on Thursday for efforts to combat the coronavirus and address its economic toll.",
+          "copyright": "Kriston Jae Bethel for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/us/14dc-econtakeaways/14dc-econtakeaways-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/us/14dc-econtakeaways/14dc-econtakeaways-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/us/14dc-econtakeaways/14dc-econtakeaways-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9b0e357b-95ba-5089-b376-17c5a842ed15",
+      "url": "https://www.nytimes.com/2021/01/15/health/covid-cdc-variant.html",
+      "id": 100000007553618,
+      "asset_id": 100000007553618,
+      "source": "New York Times",
+      "published_date": "2021-01-15",
+      "updated": "2021-01-16 04:49:07",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus (2019-nCoV);Disease Rates;Vaccination and Immunization;Deaths (Fatalities);Centers for Disease Control and Prevention;United States",
+      "column": null,
+      "byline": "By Apoorva Mandavilli and Roni Caryn Rabin",
+      "type": "Article",
+      "title": "C.D.C. Warns the New Virus Variant Could Fuel Huge Spikes in Covid-19 Cases",
+      "abstract": "The more contagious version, first identified in Britain, is expected to spread widely and lead to further strains on an already overburdened health care system.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Vaccination and Immunization",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A patient arriving at the Providence St. Mary Medical Center in Apple Valley, Calif., last month.",
+          "copyright": "Mario Tama/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/science/15VIRUS-CDC-VARIANT1/15VIRUS-CDC-VARIANT1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/science/15VIRUS-CDC-VARIANT1/15VIRUS-CDC-VARIANT1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/science/15VIRUS-CDC-VARIANT1/15VIRUS-CDC-VARIANT1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/81e094c0-b68c-5568-a294-2d2dc58e1e44",
+      "url": "https://www.nytimes.com/2021/01/15/us/coronavirus-vaccine-states.html",
+      "id": 100000007549440,
+      "asset_id": 100000007549440,
+      "source": "New York Times",
+      "published_date": "2021-01-15",
+      "updated": "2021-01-15 22:25:25",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);States (US);Elderly;United States",
+      "column": null,
+      "byline": "By Lucy Tompkins, Amy Schoenfeld Walker, Jasmine C. Lee, Danielle Ivory and Mitch Smith",
+      "type": "Article",
+      "title": "More Than Half of States Widen Access to Vaccine, Raising Hopes as Well as Chaos",
+      "abstract": "At least 28 states have begun vaccinating older people. Amid a shifting rollout, here is a look at what every state is doing.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "States (US)",
+        "Elderly"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In Georgia, which has one of the slowest rates of vaccine distribution in the country, public health departments have been inundated with older residents trying to book appointments. ",
+          "copyright": "Nicole Craine for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/us/virus-vaccine-1/merlin_182343075_ab37641f-6eba-4be2-9722-d29315a95dec-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/us/virus-vaccine-1/merlin_182343075_ab37641f-6eba-4be2-9722-d29315a95dec-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/us/virus-vaccine-1/merlin_182343075_ab37641f-6eba-4be2-9722-d29315a95dec-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c91d29b1-db7a-5f36-aba1-f36545afe947",
+      "url": "https://www.nytimes.com/2021/01/09/magazine/trump-coup.html",
+      "id": 100000007539234,
+      "asset_id": 100000007539234,
+      "source": "New York Times",
+      "published_date": "2021-01-09",
+      "updated": "2021-01-15 11:25:44",
+      "section": "Magazine",
+      "subsection": "",
+      "nytdsection": "magazine",
+      "adx_keywords": "United States Politics and Government;Voter Fraud (Election Fraud);Storming of the US Capitol (Jan, 2021);Cruz, Ted;McConnell, Mitch;Pence, Mike;Trump, Donald J",
+      "column": null,
+      "byline": "By Timothy Snyder",
+      "type": "Article",
+      "title": "The American Abyss",
+      "abstract": "A historian of fascism and political atrocity on Trump, the mob and what comes next.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Voter Fraud (Election Fraud)",
+        "Storming of the US Capitol (Jan, 2021)"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Cruz, Ted",
+        "McConnell, Mitch",
+        "Pence, Mike",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The police forced the crowd out of the Capitol building after facing off in the Rotunda, Jan. 6, 3:40 p.m.",
+          "copyright": "Ashley Gilbertson/VII, for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/17/magazine/17mag-power-10/17mag-power-10-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/17/magazine/17mag-power-10/17mag-power-10-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/17/magazine/17mag-power-10/17mag-power-10-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/57835a70-292d-58ed-9704-df56c66ea3e3",
+      "url": "https://www.nytimes.com/2021/01/14/us/Kevin-Seefried-arrested.html",
+      "id": 100000007551146,
+      "asset_id": 100000007551146,
+      "source": "New York Times",
+      "published_date": "2021-01-14",
+      "updated": "2021-01-15 11:41:42",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Storming of the US Capitol (Jan, 2021);Federal Bureau of Investigation",
+      "column": null,
+      "byline": "By Giulia McDonnell Nieto del Rio, Adam Goldman, Katie Benner and Mike Ives",
+      "type": "Article",
+      "title": "Several more Capitol rioters have been arrested including man who carried a Confederate flag inside building.",
+      "abstract": "A federal prosecutor said that a retired Air Force officer who stormed the Senate chamber holding zip ties had intended to “take hostages.”",
+      "des_facet": [
+        "Storming of the US Capitol (Jan, 2021)"
+      ],
+      "org_facet": [
+        "Federal Bureau of Investigation"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kevin Seefried has been identified as having carried a Confederate flag into the Capitol during the siege last week.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/us/14transition-briefing-confederate-flag-arrest/14transition-briefing-confederate-flag-arrest-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/us/14transition-briefing-confederate-flag-arrest/14transition-briefing-confederate-flag-arrest-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/us/14transition-briefing-confederate-flag-arrest/14transition-briefing-confederate-flag-arrest-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dfcd3eda-9c5e-50bb-8264-5d8151cba28e",
+      "url": "https://www.nytimes.com/2021/01/15/us/politics/nra-bankruptcy.html",
+      "id": 100000007554321,
+      "asset_id": 100000007554321,
+      "source": "New York Times",
+      "published_date": "2021-01-15",
+      "updated": "2021-01-16 12:54:22",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Gun Control;Lobbying and Lobbyists;Bankruptcies;Corruption (Institutional);James, Letitia;National Rifle Assn;New York State;Texas",
+      "column": null,
+      "byline": "By Danny Hakim",
+      "type": "Article",
+      "title": "N.R.A. Declares Bankruptcy and Seeks to Exit New York",
+      "abstract": "The group, which said it planned to reincorporate in Texas, is currently being investigated by New York’s attorney general, who is seeking to dissolve it.",
+      "des_facet": [
+        "Gun Control",
+        "Lobbying and Lobbyists",
+        "Bankruptcies",
+        "Corruption (Institutional)"
+      ],
+      "org_facet": [
+        "National Rifle Assn"
+      ],
+      "per_facet": [
+        "James, Letitia"
+      ],
+      "geo_facet": [
+        "New York State",
+        "Texas"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Wayne LaPierre, the longtime chief executive of the N.R.A, in 2019. The N.R.A. has weathered years of revelations about its spending and oversight practices, including those involving Mr. LaPierre.",
+          "copyright": "Saul Loeb/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/politics/15NRA/15NRA-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/politics/15NRA/15NRA-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/us/politics/15NRA/15NRA-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9b8be98c-26b0-54e9-9c96-c2621dd74724",
+      "url": "https://www.nytimes.com/2021/01/15/opinion/trump-second-impeachment.html",
+      "id": 100000007548102,
+      "asset_id": 100000007548102,
+      "source": "New York Times",
+      "published_date": "2021-01-15",
+      "updated": "2021-01-16 12:04:18",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Impeachment;Right-Wing Extremism and Alt-Right;Storming of the US Capitol (Jan, 2021);United States Politics and Government;Trump, Donald J;Raskin, Jamie (1962- );Republican Party;House of Representatives;Senate",
+      "column": null,
+      "byline": "By Michelle Goldberg",
+      "type": "Article",
+      "title": "Trump’s Inevitable End",
+      "abstract": "Finally the world agrees that Trump is exactly the man his fiercest critics said he was. But has the reckoning come too late?",
+      "des_facet": [
+        "Impeachment",
+        "Right-Wing Extremism and Alt-Right",
+        "Storming of the US Capitol (Jan, 2021)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "House of Representatives",
+        "Senate"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Raskin, Jamie (1962- )"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Peterson/Redux, for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/opinion/14goldbergtop/14goldbergtop-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/opinion/14goldbergtop/14goldbergtop-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/opinion/14goldbergtop/14goldbergtop-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/67af49d6-64c4-567c-97ca-0b604ddfb66d",
+      "url": "https://www.nytimes.com/2021/01/15/health/covid-vaccine-kessler.html",
+      "id": 100000007439655,
+      "asset_id": 100000007439655,
+      "source": "New York Times",
+      "published_date": "2021-01-15",
+      "updated": "2021-01-15 22:26:18",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Presidential Transition (US);Appointments and Executive Changes;Coronavirus (2019-nCoV);Vaccination and Immunization;Content Type: Personal Profile;Drugs (Pharmaceuticals);United States Politics and Government;Kessler, David A;Biden, Joseph R Jr;Food and Drug Administration",
+      "column": null,
+      "byline": "By Sheila Kaplan and Sheryl Gay Stolberg",
+      "type": "Article",
+      "title": "Biden Picks Former F.D.A. Chief to Lead Federal Vaccine Efforts",
+      "abstract": "Dr. David Kessler, who helped speed the development and approval of AIDS drugs in the 1990s, will become the top science official for the initiative the Trump administration had called Operation Warp Speed.",
+      "des_facet": [
+        "Presidential Transition (US)",
+        "Appointments and Executive Changes",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Content Type: Personal Profile",
+        "Drugs (Pharmaceuticals)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Food and Drug Administration"
+      ],
+      "per_facet": [
+        "Kessler, David A",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jason Henry for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/science/00VIRUS-KESSLER-promo/00VIRUS-KESSLER-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/science/00VIRUS-KESSLER-promo/00VIRUS-KESSLER-promo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/14/science/00VIRUS-KESSLER-promo/00VIRUS-KESSLER-promo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4188aadc-699e-50ca-828e-600951053503",
+      "url": "https://www.nytimes.com/2021/01/15/style/modern-love-lockdown-was-our-breaking-point.html",
+      "id": 100000007544738,
+      "asset_id": 100000007544738,
+      "source": "New York Times",
+      "published_date": "2021-01-15",
+      "updated": "2021-01-15 22:09:23",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Love (Emotion);Marriages;Quarantine (Life and Culture);Age, Chronological",
+      "column": null,
+      "byline": "By Monique El-Faizy",
+      "type": "Article",
+      "title": "Lockdown Was Our Breaking Point",
+      "abstract": "We needed to marry for our relationship to survive. But “le confinement” was too much.",
+      "des_facet": [
+        "Love (Emotion)",
+        "Marriages",
+        "Quarantine (Life and Culture)",
+        "Age, Chronological"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brian Rea",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/17/fashion/17MODERN-PARIS/17MODERN-PARIS-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/17/fashion/17MODERN-PARIS/17MODERN-PARIS-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/17/fashion/17MODERN-PARIS/17MODERN-PARIS-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/135d77b3-a1d3-55e4-8754-f3c5286a26d2",
+      "url": "https://www.nytimes.com/2021/01/15/nyregion/filipino-nurses-coronavirus.html",
+      "id": 100000007545589,
+      "asset_id": 100000007545589,
+      "source": "New York Times",
+      "published_date": "2021-01-15",
+      "updated": "2021-01-15 20:57:37",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Nursing and Nurses;Coronavirus (2019-nCoV);Filipino-Americans;Elmhurst Hospital Center;National Nurses United;Elmhurst (Queens, NY)",
+      "column": null,
+      "byline": "By Luca Powell",
+      "type": "Article",
+      "title": "‘It’s Starting Again’: Why Filipino Nurses Dread the Second Wave",
+      "abstract": "Indispensable to New York City hospitals, health care workers from the Philippines died in shocking numbers last spring. Will things be different this winter?",
+      "des_facet": [
+        "Nursing and Nurses",
+        "Coronavirus (2019-nCoV)",
+        "Filipino-Americans"
+      ],
+      "org_facet": [
+        "Elmhurst Hospital Center",
+        "National Nurses United"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "Elmhurst (Queens, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Desiree Rios for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/nyregion/15nyvirus-fillipino-nurses-promo/15nyvirus-fillipino-nurses-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/nyregion/15nyvirus-fillipino-nurses-promo/merlin_181597755_49bf4527-f3fc-4936-8a8b-ead37308fb76-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/nyregion/15nyvirus-fillipino-nurses-promo/merlin_181597755_49bf4527-f3fc-4936-8a8b-ead37308fb76-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b555c05c-6228-5731-a1e3-e7c0aa8cddce",
+      "url": "https://www.nytimes.com/2021/01/15/world/europe/dutch-government-resignation-rutte-netherlands.html",
+      "id": 100000007551473,
+      "asset_id": 100000007551473,
+      "source": "New York Times",
+      "published_date": "2021-01-15",
+      "updated": "2021-01-15 13:07:11",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Politics and Government;Legislatures and Parliaments;Rutte, Mark;Netherlands",
+      "column": null,
+      "byline": "By Thomas Erdbrink",
+      "type": "Article",
+      "title": "Government in Netherlands Resigns After Benefit Scandal",
+      "abstract": "A parliamentary report concluded that tax authorities unfairly targeted poor families over child care benefits. Prime Minister Mark Rutte and his entire cabinet stepped down.",
+      "des_facet": [
+        "Politics and Government",
+        "Legislatures and Parliaments"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Rutte, Mark"
+      ],
+      "geo_facet": [
+        "Netherlands"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prime Minister Mark Rutte of the Netherlands in The Hague on Friday.",
+          "copyright": "Bart Maat/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/world/xxnetherlands-governmentHFO-1/xxnetherlands-governmentHFO-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/world/xxnetherlands-governmentHFO-1/xxnetherlands-governmentHFO-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/01/15/world/xxnetherlands-governmentHFO-1/xxnetherlands-governmentHFO-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
