@@ -4,7 +4,10 @@
   project apply
   - swiftlint for linting
   - swift format for formating code 
-  archticture MVVM with behaviour tests
+  
+ # Archticture MVVM with behaviour tests
+  
+ ![alt text](https://miro.medium.com/max/1276/1*sdOtTrxrOVQzYRygaB1qqw.jpeg)
   
   Frameworks used
    - Alamofireimage for loading remote image
