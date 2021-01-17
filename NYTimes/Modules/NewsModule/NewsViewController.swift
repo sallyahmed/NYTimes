@@ -12,7 +12,7 @@ import UIKit
 final class NewsViewController: UIViewController, UIScrollViewDelegate {
     private var viewModel: NewsViewModelType
     private var router: NewsRouterType
-
+    let cellIdentifer = "NewsTableViewCell"
     @IBOutlet private var tableView: UITableView!
     @IBOutlet private var loader: UIActivityIndicatorView!
 
@@ -36,10 +36,10 @@ final class NewsViewController: UIViewController, UIScrollViewDelegate {
 
     private func setupTableView() {
         // register cell
-        tableView.register(UINib(nibName: "NewsTableViewCell", bundle: nil),
-                           forCellReuseIdentifier: "NewsTableViewCell")
+        tableView.register(UINib(nibName: cellIdentifer, bundle: nil),
+                           forCellReuseIdentifier: cellIdentifer)
         // binding table
-        viewModel.newsDriver.drive(tableView.rx.items(cellIdentifier: "NewsTableViewCell",
+        viewModel.newsDriver.drive(tableView.rx.items(cellIdentifier: cellIdentifer,
                                                       cellType: NewsTableViewCell.self)) { _, element, cell in
             cell.item = element
         }.disposed(by: disposeBag)
